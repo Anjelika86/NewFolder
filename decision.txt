@@ -8,3 +8,5 @@ mkdir important touch 1.txt 2.txt 3.txt 123 txt
  
 env | grep LC
 
+locate code >>text.txt
+
