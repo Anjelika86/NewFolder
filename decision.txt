@@ -12,4 +12,6 @@ locate code >>text.txt
 
 startStream
 
+chmod a+x startStream 
+
 
