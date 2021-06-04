@@ -1,3 +1,5 @@
 user@user-System-Product-Name:~$ mkdir LinuxTask
 
 user@user-System-Product-Name:~/LinuxTask$ touch test testFile 'fileFor Test' testo Test-Testovich.bio
+
+~/LinuxTask$ rm *test*
