@@ -14,4 +14,7 @@ startStream
 
 chmod a+x startStream 
 
+ln -s ./../../../bin/pwd LinkPwd
+
+
 
